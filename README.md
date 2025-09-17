@@ -1,37 +1,50 @@
-## 👋 Hi, I’m Shreya Somwanshi  
+<h2 align="center">✨ About Me ✨</h2>
 
-I’m a **Data Science and AI/ML enthusiast** currently pursuing my Diploma in **Artificial Intelligence & Machine Learning**. I enjoy solving real-world problems through data, and I love exploring the intersection of **technology, creativity, and impact**.  
-
----
-
-### 🚀 What I Do
-- 📊 Data Analysis & Visualization (Python, NumPy, Pandas, Matplotlib, Seaborn)  
-- 🛢 Databases (MySQL, Oracle)  
-- 💻 Programming (Python, Java, OOP concepts)  
-- ☁️ Basics of Cloud Computing & Big Data  
+<p align="center">
+  <em>
+    Hi, I’m <b>Shreya Somwanshi</b> 🌸 <br>
+    A passionate <b>AI & Data Science Enthusiast</b> currently pursuing my Diploma in <b>Artificial Intelligence & Machine Learning</b>.<br>
+    I love exploring how <b>data, technology & creativity</b> come together to solve real-world problems. 🚀
+  </em>
+</p>
 
 ---
 
-### 📂 Projects I’ve Built
-- **Inventory Tracker (Java)** → simplified stock management with CRUD operations  
-- **EDA on Chocolate Sales** → uncovered patterns & trends in sales data  
-- **Mental Health & Music Analysis** → studied correlations between listening habits and mental well-being  
+<h3 align="center">🌱 What I’m Learning</h3>
+<p align="center">
+  Machine Learning • Exploratory Data Analysis • Predictive Modeling • Big Data • Cloud Basics
+</p>
 
 ---
 
-### 🌱 Currently Exploring
-- Machine Learning algorithms & their real-world applications  
-- Building impactful projects that connect **data with human behavior**  
-- Strengthening my skills in **EDA, predictive modeling, and visualization**  
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C6EF5?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-### 💡 Beyond Tech
-- I’m both **introvert and extrovert** — I love deep conversations but also enjoy quiet creative time.  
-- I find inspiration in **K-dramas, art, and problem-solving challenges**.  
+<h3 align="center">💡 A Little About Me</h3>
+
+<p align="center">
+ 🌼 A mix of introvert & extrovert — love deep talks and creative solitude <br>
+ 🎬 Inspired by K-dramas & storytelling <br>
+ 📊 Passionate about data-driven problem solving <br>
+ ✨ Believe in constant learning & self-growth
+</p>
 
 ---
 
-### 📫 Let’s Connect
-- [LinkedIn](your-linkedin-url)  
-- [GitHub](https://github.com/yourusername)  
+<h3 align="center">📫 Let’s Connect</h3>
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
