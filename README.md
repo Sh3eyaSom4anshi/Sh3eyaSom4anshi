@@ -36,9 +36,9 @@
 
 <p align="center">
  🌼 A mix of introvert & extrovert — love deep talks and creative solitude <br>
- 🎬 Inspired by K-dramas & storytelling <br>
  📊 Passionate about data-driven problem solving <br>
- ✨ Believe in constant learning & self-growth
+ ✨ Creativity Team Member at <b>CASA Committee </b> <br>
+ 🌱 Believe in constant learning & self-growth
 </p>
 
 ---
@@ -47,4 +47,5 @@
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
