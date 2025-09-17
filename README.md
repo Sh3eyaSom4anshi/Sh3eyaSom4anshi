@@ -3,8 +3,8 @@
 
 <p align="center">
   <i>
-    <b>AI & Data Science Enthusiast</b> | Creativity Team Member at <b>AIDIAS Committee (CASA)</b> <br>
-    Exploring the world where <b>Data ✨</b> meets <b>Creativity 🎨</b>
+ A passionate <b>AI & Data Science Enthusiast</b> currently pursuing my Diploma in <b>Artificial Intelligence & Machine Learning</b>.<br>
+    I love exploring how <b>data, technology & creativity</b> come together to solve real-world problems. 🚀
   </i>
 </p>
 
